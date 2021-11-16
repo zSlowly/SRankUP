@@ -1,0 +1,7 @@
+name: SRankUP
+author: zSlowly
+version: 1.0
+main: pt.slowly.rankup.Main
+commands:
+  rankup:
+  pontos:

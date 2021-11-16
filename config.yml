@@ -1,0 +1,28 @@
+MySQL:
+  IP: 'localhost'
+  Porta: 3306
+  Usuario: 'root'
+  Senha: ''
+  DataBase: 'teste'
+  
+Mundo:
+  Mina: 'world'
+  Mobs: 'world'
+  
+Pontos:
+  Porcentagem: 0.5
+  Ganhar: 100
+  
+Ranks:
+  0:
+    Nome: '&aTerra'
+    Coins: 10000
+    Pontos: 5000
+  1:
+    Nome: '&bPedra'
+    Coins: 15000
+    Pontos: 8000
+  2:
+    Nome: '&cGranito'
+    Coins: 2000
+    Pontos: 10000
